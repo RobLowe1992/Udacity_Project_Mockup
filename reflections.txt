@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+
+	In the mockup task i learned two new skills. I learned how to use the <hr> tag to create a page width horizontal line and how to use the <sup> to display the text at half the standard font size.
+
+  * What has been easy?
+	It was pretty easy to format the page. Most of the layout was pretty straight forward.
+
+  * What has been difficult?
+	The most difficult part of this assignment was finding out how to implement the <sup> and <hr> tags.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+	The Mozilla Developer Network has been extremely helpful with problem solving. Anytime i have gotten stuck i can usually find the answer there or on Stack Overflow.
+
+---
+
+Your response goes here!
